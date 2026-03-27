@@ -1,0 +1,5 @@
+{
+  "name": "Smart Waste Management Systemraju",
+  "description": "A web platform for citizens to report waste-related issues like overflowing bins and illegal dumping to municipal authorities, track complaint status in real-time, and earn rewards for their contributions.",
+  "requestFramePermissions": []
+}
